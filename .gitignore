@@ -1,0 +1,30 @@
+# Build output
+build/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+
+# Qt / qmake generated files
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile
+Makefile.*
+*.pro.user
+
+# IDE and local machine files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
